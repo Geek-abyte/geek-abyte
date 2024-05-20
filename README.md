@@ -1,3 +1,6 @@
+![Snake game](https://github.com/geek-abyte/geek-abyte/blob/output/github-contribution-grid-snake.svg)
+
+
 # Hello, World! 🌍
 
 I'm [Your Name], a budding developer with a passion for learning and exploring the vast world of coding.
