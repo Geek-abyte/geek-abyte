@@ -23,6 +23,9 @@ I enjoy writing about my learning journey. Check out my blog posts:
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 - 📧 Email: your.email@example.com -->
 
+- ![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
+
+
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
 
