@@ -1,10 +1,10 @@
 <div align="center">
   
-  # 👋 Hello, I'm [Your Name]
+  # 👋 Hello, I'm Gabriel
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+  [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Gabriel_Osise)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=geek-abyte&color=brightgreen&style=flat-square)
 
@@ -16,13 +16,13 @@
 
 ## 🚀 About Me
 
-> 💻 Full Stack Developer passionate about creating innovative solutions
+> 💻 Full Stack Developer. I enjoy building things that make life easier and more fun.
 >
-> 🌱 Currently learning [Technology/Skill]
+> 🌱 Currently learning about blockchain and backend technologies like Rust and Go
 >
 > 👯 Looking to collaborate on exciting projects
 >
-> 🎯 2024 Goals: [Your Goals]
+> 🎯 2024 Goals: Contribute to open source projects and learn more about Rust and Go
 
 ## 🛠️ Tech Stack
 
