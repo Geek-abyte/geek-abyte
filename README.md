@@ -6,12 +6,12 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=geek-abyte&color=brightgreen&style=flat-square)
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=geek-abyte&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 🚀 About Me
