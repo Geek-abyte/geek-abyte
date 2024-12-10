@@ -10,10 +10,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geek-abyte&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 ## 🚀 About Me
 
 > 💻 Full Stack Developer. I enjoy building things that make life easier and more fun.
@@ -34,6 +30,10 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geek-abyte&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 📊 Weekly Development Breakdown
