@@ -35,7 +35,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geek-abyte&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
